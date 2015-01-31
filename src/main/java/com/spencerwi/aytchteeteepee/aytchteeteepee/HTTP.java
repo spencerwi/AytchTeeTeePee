@@ -1,4 +1,4 @@
-package com.spencerwi.aytchteeteepee;
+package com.spencerwi.aytchteeteepee.aytchteeteepee;
 
 import com.google.gson.Gson;
 import com.ning.http.client.AsyncCompletionHandler;
@@ -49,7 +49,8 @@ public final class HTTP {
                                          public void onThrowable(Throwable t) {
                                              future.cancel(true);
                                          }
-                                     });
+                                     }
+                            );
         return future;
     }
 

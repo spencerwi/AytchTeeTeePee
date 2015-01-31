@@ -1,4 +1,4 @@
-package com.spencerwi.aytchteeteepee;
+package com.spencerwi.aytchteeteepee.aytchteeteepee;
 
 import com.google.gson.Gson;
 import com.ning.http.client.AsyncCompletionHandler;

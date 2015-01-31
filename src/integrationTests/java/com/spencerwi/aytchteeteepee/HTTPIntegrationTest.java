@@ -1,6 +1,7 @@
 package com.spencerwi.aytchteeteepee;
 
 import com.ning.http.client.Response;
+import com.spencerwi.aytchteeteepee.aytchteeteepee.HTTP;
 import org.junit.Assume;
 import org.junit.Before;
 import org.junit.Test;

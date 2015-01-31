@@ -9,8 +9,8 @@ repositories {
 
 sourceSets {
     integrationTests {
-        java.srcDir file('src/integrationTest/java')
-        resources.srcDir file('src/integrationTest/resources')
+        java.srcDir file('src/integrationTests/java')
+        resources.srcDir file('src/integrationTests/resources')
 
         compileClasspath += sourceSets.main.runtimeClasspath
     }
