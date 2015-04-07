@@ -1,5 +1,7 @@
 # AytchTeeTeePee
 
+[![Build Status](https://travis-ci.org/spencerwi/AytchTeeTeePee.svg?branch=master)](https://travis-ci.org/spencerwi/AytchTeeTeePee)
+
 A nicer, CompleteableFuture-friendly HTTPClient for dead-simple async HTTP requests.
 
 
